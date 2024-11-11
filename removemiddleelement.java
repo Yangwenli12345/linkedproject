@@ -5,7 +5,7 @@ import java.util.LinkedList;
 public class removemiddleelement {
 
     // sabriin abdi aziz ali
-    // c1220533
+    // c1220536
 
     public static void removeMiddleElement(LinkedList<String> list) {
 
