@@ -4,9 +4,6 @@ import java.util.LinkedList;
 
 public class removemiddleelement {
 
-    // sabriin abdi aziz ali
-    // c1220536
-
     public static void removeMiddleElement(LinkedList<String> list) {
 
         int middleIndex = list.size() / 2;
